@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "616097715892",
+    "project_id": "holopj-8825a",
+    "storage_bucket": "holopj-8825a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616097715892:android:f43c91af09be3496d829e1",
+        "android_client_info": {
+          "package_name": "com.codingstuff.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616097715892-nc0rt71mbdfdvq8401gelg2q4bs7nns1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingstuff.loginandsignup",
+            "certificate_hash": "68cce1ef24e14baf4dc1b9cd6064a0e624304cf3"
+          }
+        },
+        {
+          "client_id": "616097715892-r0md0usqe2b4ov13i92s4rd8u7tes1rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBwg7yrxkMl2qbGWZMLSwhBRxjs6B7QqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616097715892-r0md0usqe2b4ov13i92s4rd8u7tes1rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
